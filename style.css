@@ -1,0 +1,32 @@
+  h1 {
+    color:white;
+    text-align: center;
+    background-color:#A52A2A;
+  }
+
+  p {text-align: center;
+
+ }
+
+  .car {
+       border-style: dashed;
+       width: 100px;
+       padding-bottom: 10px;      
+  }
+  
+  a{
+    text-decoration: none;  
+    color: blue;
+  }
+  section {
+    padding-top: 40px;
+    padding-bottom: 40px;  
+    font-size: 18px;
+  }
+  footer {
+    font-size: 20px;
+    color: white;
+    background-color: #141113;
+    text-align: center;
+
+  }
